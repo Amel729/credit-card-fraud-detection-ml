@@ -1,6 +1,6 @@
 
 # Credit Card Fraud Detection Project
-# Author: Saleh Nasr
+# Author: Fatma Mahfoud
 
 import pandas as pd
 import numpy as np
